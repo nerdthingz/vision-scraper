@@ -25,7 +25,7 @@ Access the deployed application here: [Vision-Scraper on Hugging Face](https://h
    - The generated code is executed, and the extracted data is returned to the user.
 
 3. **Vision-Based Scraping**
-   - If the user provides an image, the image is processed using **Gemini**, a vision-based tool.
+   - If the user provides an image, the image is processed using **Gemini**
    - Gemini provides insights into how the scraping should be performed.
    - The agent uses these insights to guide the scraping process.
 
